@@ -2,11 +2,13 @@
   "name": "site1",
   "version": "1.0.0",
   "description": "#Check for node, npm, and npx",
-  "main": "gulpfile.js",
+  "main": "index.js",
   "dependencies": {
     "gulp": "^4.0.2",
     "gulp-cli": "^2.2.0",
-    "gulp-less": "^4.0.1"
+    "gulp-less": "^4.0.1",
+    "jquery": "^3.5.0",
+    "karma": "^5.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
@@ -15,10 +17,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fgsoftware1/Site1.git"
-  },
+  "repository": "git+https://github.com/fgsoftware1/Site1.git",
   "author": "Gabriel Aguiar",
   "license": "MIT",
   "bugs": {
