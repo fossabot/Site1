@@ -1,0 +1,23 @@
+{
+  "name": "site1",
+  "version": "1.0.0",
+  "description": "#Check for node, npm, and npx",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgsoftware1/Site1.git"
+  },
+  "author": "Gabriel Aguiar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgsoftware1/Site1/issues"
+  },
+  "homepage": "https://github.com/fgsoftware1/Site1#readme"
+}
