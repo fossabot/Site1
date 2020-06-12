@@ -1,0 +1,21 @@
+{
+  "name": "site1",
+  "description": "#Check for node, npm, and npx",
+  "main": "index.js",
+  "authors": [
+    "Gabriel Aguiar"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fgsoftware1/Site1",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mocha": "^7.1.2"
+  }
+}
